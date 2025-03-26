@@ -1,4 +1,4 @@
-package com.example.common;
+package com.example.coordinator;
 
 import java.util.List;
 import java.util.Map;

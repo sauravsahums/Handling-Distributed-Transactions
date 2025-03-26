@@ -15,7 +15,8 @@
 
   <modules>
     <module>coordinator-service</module>
-    <module>participant-service</module>
+    <module>participant-service-1</module>
+    <module>participant-service-2</module>
     <module>common</module>
   </modules>
 
