@@ -1,9 +1,11 @@
 package com.example.participant1;
 
+import com.example.TransactionRequest;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Service;
 
+// Use Service annotation for defining business logic or transactional op.
 @Service
 public class ParticipantService {
     @Autowired
