@@ -73,3 +73,7 @@ If you get this error, the required table may not be created. Run this SQL comma
 ```
 2. "Duplicate key value violates unique constraint"
 This means a transaction ID is being reused. Try using a unique transactionId in the request.
+
+3. Build commands : `mvn clean package spring-boot:repackage`
+
+![img.png](img.png)
